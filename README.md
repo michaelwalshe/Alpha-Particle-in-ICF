@@ -1,1 +1,1 @@
-# For playing around with bits of code
+# Bits of project code

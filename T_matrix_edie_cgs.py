@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jan 24 08:54:57 2019
-
+editing to create a commit
 @author: Michael
 """
 
@@ -17,6 +17,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #Gives you the coefficient dependent on degeneracy param x (based on gamma and charge) and which coefficient i you want
+
 def coef(i, x):
     if i == 1:
         a = m.exp(1.78 * x - 1.01)

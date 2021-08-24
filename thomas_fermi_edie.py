@@ -2,7 +2,8 @@
 """
 Created on Wed Jan 23 22:39:13 2019
 Calculate the stopping power of a plasma using Thomas-Fermi model from Edie PhD thesis
-Almost definitely shouldn't be seperate fcts but that's how I started that's how I'll finish
+
+
 @author: Michael
 """
 

@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 24 08:54:57 2019
-
-@author: Michael
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Thu Jan 24 00:10:22 2019
 Calculate the stopping power of a plasma using T-matrix model from Edie PhD thesis
+
+UNITS ARE IN CGS, CONSTANTS ARE DIFFERENT
 @author: Michael
 """
 
